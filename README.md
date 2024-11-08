@@ -85,7 +85,7 @@
 |-------|---------|---------|--------------|
 |id|Целое число|False|True|
 |user_id|Целое число|False|False|
-|date_time|Момент времени|False	False|
+|date_time|Момент времени|False|False|
 
 **Таблица «purchase_good»**
 
